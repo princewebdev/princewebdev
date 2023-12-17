@@ -1,4 +1,3 @@
-<span style="background:#000">
 <h2 align="left">Hi 👋! I am Shariar Mahmud Prince. I am a WEB DEVELOPER.</h2>
 
 ###
@@ -59,11 +58,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/princewebdev/princewebdev/output/snake.svg" alt="Snake animation" />
-
-###
-
-</span>
