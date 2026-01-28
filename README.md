@@ -71,8 +71,6 @@ Leading a complete re-architecture of a complex multivendor marketplace, migrati
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princewebdev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=princewebdev&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
-
 </div>
 
 ---
