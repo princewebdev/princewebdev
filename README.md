@@ -73,16 +73,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=princewebdev)](https://github.com/princewebdev/github-profile-trophy)
-
-</div>
-
----
-
 ## 💼 Featured Projects & Expertise
 
 ### ⚙️ **BattleLedger** - Tournament Management System
