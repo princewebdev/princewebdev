@@ -77,7 +77,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/princewebdev/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=princewebdev)](https://github.com/princewebdev/github-profile-trophy)
 
 </div>
 
