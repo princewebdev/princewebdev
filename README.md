@@ -77,7 +77,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=princewebdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/princewebdev/github-profile-trophy)
 
 </div>
 
