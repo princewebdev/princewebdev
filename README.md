@@ -6,10 +6,10 @@
 
 ### 📍 Dhaka, Bangladesh | 💼 Top Rated Plus on Upwork | 🏆 100% Job Success Score
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariar-prince)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/shariar-prince](https://www.linkedin.com/in/best-wordpress-developer-in-bangladesh/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princewebdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/princewebdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@shariarprince.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://github.com/princewebdev](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fportfolio-sepia-mu-30.vercel.app%2Fportfolio&urlhash=KjfP&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BksDFzsyGRdOfuS7Vo16a5A%3D%3D))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coderboyprince@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=princewebdev&color=blueviolet&style=for-the-badge)
 
